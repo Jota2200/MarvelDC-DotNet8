@@ -1,0 +1,6 @@
+@MarvelDC_DotNet8_HostAddress = http://localhost:5216
+
+GET {{MarvelDC_DotNet8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
